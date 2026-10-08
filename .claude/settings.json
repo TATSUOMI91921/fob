@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Notion",
+      "mcp__claude-code-remote",
+      "Bash",
+      "WebFetch",
+      "WebSearch",
+      "Read",
+      "Edit",
+      "Write",
+      "Skill"
+    ]
+  }
+}
